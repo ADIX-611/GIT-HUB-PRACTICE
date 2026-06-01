@@ -1,3 +1,7 @@
 THIS IS ANOTHER FILE THAT I CREATED FOR PRACTICE 
 
 HOPE THE PRACTICE IS GOING TO BE OK THIS TIME 
+
+i have changed something here i see
+
+i added this line purposely to see what git does
